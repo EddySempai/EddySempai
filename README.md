@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eduincontreras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://resudb.com"><img src="https://img.shields.io/badge/Live_Project-resudb.com-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project" /></a>
-  <a href="mailto:eddycon97@gmail.com"><img src="https://img.shields.io/badge/Email-eddycon97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jereofficial@gmail.com"><img src="https://img.shields.io/badge/Email-jereofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
