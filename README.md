@@ -1,70 +1,86 @@
-# Hi there, I'm Eduin Contreras 👋
-### Frontend & Web Developer | React · JavaScript · SQL
+# <h1 align="center">Hi there, I'm Eduin Contreras 👋</h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduincontreras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jereofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://nexus-footwear.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white" alt="Nexus Footwear" /></a>
+<p align="center">
+  <b>Frontend & AI Web Developer</b> passionate about building high-performance web applications, interactive interfaces, and multimodal AI integrations.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduincontreras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://resudb.com"><img src="https://img.shields.io/badge/Live_Project-resudb.com-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project" /></a>
+  <a href="mailto:eddycon97@gmail.com"><img src="https://img.shields.io/badge/Email-eddycon97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 About Me
 
-I am a passionate **Frontend Developer** based in Mérida, Venezuela 🇻🇪. Combining an analytical background in operations and data with modern web technologies, I focus on building fast, accessible, and user-friendly digital applications.
+- 📍 Based in **Mérida, Venezuela** (Open to Remote opportunities worldwide 🌍).
+- 🚀 **Flagship Project:** Creator and maintainer of **[resudb.com](https://resudb.com)**, a production web app integrating **Google Gemini AI**, tactical calculators, and complex game mechanics.
+- 💻 **Core Stack:** **React 19**, **TypeScript**, **Tailwind CSS**, and **Google Gemini API**.
+- 🎯 Focused on clean UI/UX, responsive layouts, data optimization algorithms, and internationalization (i18n).
+- 💬 Ask me about: **React architectures, AI Vision OCR integrations, or optimizing web assets**.
 
-- 🚀 **Currently Building:** Full-stack features and e-commerce solutions with **React** & **Supabase**.
-- 📚 **Learning & Expanding:** Deepening my knowledge in **TypeScript** and modern backend APIs.
-- 👨‍🏫 **Experience:** Former instructor in computer science and graphic design; experienced in bridging business logic with code.
-- 💼 **Open to:** Junior Frontend / Full Stack remote positions & freelance contracts.
+---
+
+### 🚀 Featured Projects
+
+#### 👑 1. [Database-RESU (resudb.com)](https://github.com/EddySempai/Database-RESU) — *Live Production App*
+> **Tactical Intelligence Hub & Multimodal AI Inventory Scanner**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-resudb.com-success?style=flat-square&logo=googlechrome&logoColor=white)](https://resudb.com)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-Database--RESU-blue?style=flat-square&logo=github)](https://github.com/EddySempai/Database-RESU)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-Multimodal_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+- 🤖 **"Red Queen" Tactical Assistant:** Conversational AI terminal with streaming teletype animation and tactical prompting.
+- 📸 **Multimodal OCR Inventory Scanner:** Uses Google Gemini Vision API to analyze user inventory screenshots and auto-populate upgrade items.
+- ⚡ **Optimization Engine:** Custom greedy algorithms calculating stamina and troop promotion efficiency.
+- 🌐 **Tri-lingual i18n:** Full support for English, Spanish, and Japanese with instant runtime language switching.
+- 🖼️ **Performance Pipeline:** Python/Sharp compression scripts converting raw assets to WebP, saving >80% bandwidth.
+
+---
+
+#### 👟 2. [Nexus Footwear](https://github.com/EddySempai/nexus-footwear) — *Modern E-Commerce Experience*
+> **Interactive footwear catalog and responsive cart system**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-success?style=flat-square&logo=vercel&logoColor=white)](https://nexus-footwear.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-nexus--footwear-blue?style=flat-square&logo=github)](https://github.com/EddySempai/nexus-footwear)
+[![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+- 🛒 Full shopping cart workflow with client-side state persistence.
+- 🎨 Smooth animations and responsive layout designed for all screen viewports.
+- 🔍 Dynamic product filtering by category, brand, and pricing.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Styling:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Databases & Backend:**  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Workflow & Design:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `TypeScript`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `SQL`, `Python (Scripting)` |
+| **Frameworks & Libs** | `React 19`, `Vite`, `React Router v7`, `Tailwind CSS`, `Framer Motion`, `i18next` |
+| **AI & APIs** | `Google Gemini API (Vision / Multimodal)`, `REST APIs` |
+| **Design & Workflow** | `Git`, `GitHub`, `Figma`, `Vercel`, `VS Code` |
 
 ---
 
-### 🌟 Featured Project
+### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="center">👟 Nexus Footwear — E-Commerce Catalog</h3>
-      <p align="center">
-        A fast and responsive footwear catalog application built with <b>React</b> and <b>Vite</b>, featuring interactive product filtering, responsive UI, and continuous deployment.
-      </p>
-      <p align="center">
-        <a href="https://nexus-footwear.vercel.app" target="_blank"><b>🌐 View Live Demo</b></a> &nbsp;•&nbsp; 
-        <a href="https://github.com/EddySempai/nexus-footwear" target="_blank"><b>📁 Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EddySempai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="EddySempai's GitHub Stats" />
+</p>
 
 ---
 
-### 📬 Connect With Me
+### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [/in/eduincontreras](https://www.linkedin.com/in/eduincontreras/)
-- 📧 **Email:** [jereofficial@gmail.com](mailto:jereofficial@gmail.com)
-- 🌐 **Location:** Mérida, Venezuela (Available for Remote Work Worldwide)
+- 💼 **LinkedIn:** [linkedin.com/in/eduincontreras](https://www.linkedin.com/in/eduincontreras/)
+- 🌐 **Flagship Project:** [resudb.com](https://resudb.com)
+- 📧 **Direct Email:** [eddycon97@gmail.com](mailto:eddycon97@gmail.com)
+
+<p align="center">
+  <i>"Transforming ideas into high-performance, production-ready software."</i>
+</p>
